@@ -35,7 +35,6 @@ This machine learning project demonstrates how to build a **fraud detection mode
 
 ```
 Credit-Card-Fraud-Detection/
-├── creditcard.csv             # Dataset (anonymized credit card transactions)
 ├── cc_fraud_detector.py       # Main script
 ├── cc_fraud_detector.ipynb    # Jupyter Notebook
 ├── README.md                  # Project documentation
